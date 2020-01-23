@@ -148,6 +148,11 @@
       landingPageType: Service
       children:
       - 'azure-cognitiveservices-language-luis*'
+    - name: Custom Image Search
+      uid: azure.python.sdk.landingPage.services.Cognitive.Services.Bing.Custom.Image.Search
+      landingPageType: Service
+      children:
+      - 'azure-cognitiveservices-search-customimagesearch*'
     - name: Web Search
       uid: azure.python.sdk.landingPage.services.Cognitive.Services.Bing.Web.Search
       landingPageType: Service
