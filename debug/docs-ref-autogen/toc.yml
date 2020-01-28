@@ -1,0 +1,96 @@
+- items:
+  - items:
+    - items:
+      - name: azure.storage.blob.aio.BlobClient
+        uid: azure.storage.blob.aio.BlobClient
+      - name: azure.storage.blob.aio.BlobLeaseClient
+        uid: azure.storage.blob.aio.BlobLeaseClient
+      - name: azure.storage.blob.aio.BlobServiceClient
+        uid: azure.storage.blob.aio.BlobServiceClient
+      - name: azure.storage.blob.aio.ContainerClient
+        uid: azure.storage.blob.aio.ContainerClient
+      - name: azure.storage.blob.aio.ExponentialRetry
+        uid: azure.storage.blob.aio.ExponentialRetry
+      - name: azure.storage.blob.aio.LinearRetry
+        uid: azure.storage.blob.aio.LinearRetry
+      - name: azure.storage.blob.aio.StorageStreamDownloader
+        uid: azure.storage.blob.aio.StorageStreamDownloader
+      name: azure.storage.blob.aio
+      uid: azure.storage.blob.aio
+    - name: azure.storage.blob.AccessPolicy
+      uid: azure.storage.blob.AccessPolicy
+    - name: azure.storage.blob.AccountSasPermissions
+      uid: azure.storage.blob.AccountSasPermissions
+    - name: azure.storage.blob.BlobAnalyticsLogging
+      uid: azure.storage.blob.BlobAnalyticsLogging
+    - name: azure.storage.blob.BlobBlock
+      uid: azure.storage.blob.BlobBlock
+    - name: azure.storage.blob.BlobClient
+      uid: azure.storage.blob.BlobClient
+    - name: azure.storage.blob.BlobLeaseClient
+      uid: azure.storage.blob.BlobLeaseClient
+    - name: azure.storage.blob.BlobProperties
+      uid: azure.storage.blob.BlobProperties
+    - name: azure.storage.blob.BlobSasPermissions
+      uid: azure.storage.blob.BlobSasPermissions
+    - name: azure.storage.blob.BlobServiceClient
+      uid: azure.storage.blob.BlobServiceClient
+    - name: azure.storage.blob.BlobType
+      uid: azure.storage.blob.BlobType
+    - name: azure.storage.blob.BlockState
+      uid: azure.storage.blob.BlockState
+    - name: azure.storage.blob.ContainerClient
+      uid: azure.storage.blob.ContainerClient
+    - name: azure.storage.blob.ContainerProperties
+      uid: azure.storage.blob.ContainerProperties
+    - name: azure.storage.blob.ContainerSasPermissions
+      uid: azure.storage.blob.ContainerSasPermissions
+    - name: azure.storage.blob.ContentSettings
+      uid: azure.storage.blob.ContentSettings
+    - name: azure.storage.blob.CopyProperties
+      uid: azure.storage.blob.CopyProperties
+    - name: azure.storage.blob.CorsRule
+      uid: azure.storage.blob.CorsRule
+    - name: azure.storage.blob.CustomerProvidedEncryptionKey
+      uid: azure.storage.blob.CustomerProvidedEncryptionKey
+    - name: azure.storage.blob.ExponentialRetry
+      uid: azure.storage.blob.ExponentialRetry
+    - name: azure.storage.blob.LeaseProperties
+      uid: azure.storage.blob.LeaseProperties
+    - name: azure.storage.blob.LinearRetry
+      uid: azure.storage.blob.LinearRetry
+    - name: azure.storage.blob.LocationMode
+      uid: azure.storage.blob.LocationMode
+    - name: azure.storage.blob.Metrics
+      uid: azure.storage.blob.Metrics
+    - name: azure.storage.blob.PageRange
+      uid: azure.storage.blob.PageRange
+    - name: azure.storage.blob.PartialBatchErrorException
+      uid: azure.storage.blob.PartialBatchErrorException
+    - name: azure.storage.blob.PremiumPageBlobTier
+      uid: azure.storage.blob.PremiumPageBlobTier
+    - name: azure.storage.blob.PublicAccess
+      uid: azure.storage.blob.PublicAccess
+    - name: azure.storage.blob.RehydratePriority
+      uid: azure.storage.blob.RehydratePriority
+    - name: azure.storage.blob.ResourceTypes
+      uid: azure.storage.blob.ResourceTypes
+    - name: azure.storage.blob.RetentionPolicy
+      uid: azure.storage.blob.RetentionPolicy
+    - name: azure.storage.blob.SequenceNumberAction
+      uid: azure.storage.blob.SequenceNumberAction
+    - name: azure.storage.blob.StandardBlobTier
+      uid: azure.storage.blob.StandardBlobTier
+    - name: azure.storage.blob.StaticWebsite
+      uid: azure.storage.blob.StaticWebsite
+    - name: azure.storage.blob.StorageErrorCode
+      uid: azure.storage.blob.StorageErrorCode
+    - name: azure.storage.blob.StorageStreamDownloader
+      uid: azure.storage.blob.StorageStreamDownloader
+    - name: azure.storage.blob.UserDelegationKey
+      uid: azure.storage.blob.UserDelegationKey
+    name: azure.storage.blob
+    uid: azure.storage.blob
+  name: azure-storage-blob
+  uid: project-azure-storage-blob
+
